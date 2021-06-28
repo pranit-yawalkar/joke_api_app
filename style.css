@@ -1,0 +1,44 @@
+*{
+    margin: 0px auto;
+    font-family: sans-serif;
+}
+
+.container{
+    background-color:aquamarine;
+    align-items: center;
+    width: 50%;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    height: 25%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 16px;
+    text-align: center;
+}
+
+.btn{
+    padding: 5px;
+    /* margin: 10px; */
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 90px;
+    font-size: 15px;
+}
+
+.btn:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+h2{
+    color: rgb(0, 89, 255);
+    font-weight: bold;
+}
+
+.joke{
+    font-weight: bold;
+    padding: 20px;
+    height: 25%;
+}
